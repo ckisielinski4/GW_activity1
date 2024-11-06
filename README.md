@@ -1,4 +1,4 @@
-contributing to the readme.
 
-Lead contributor: Ckisielinski4
-collaborator: Ckisielinski
+lead contributor: Ckisielinski
+collaborator: Ckisielinski4
+
