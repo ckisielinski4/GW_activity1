@@ -1,4 +1,4 @@
-Credentials: /n
+Credentials:
 lead contributor: Ckisielinski
 collaborator: Ckisielinski4
 
