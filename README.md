@@ -1,4 +1,7 @@
 Credentials:
-lead contributor: Ckisielinski
-collaborator: Ckisielinski4
+
+lead contributor: Ckisielinski4
+contact: email adress
+collaborator: Ckisielinski
+
 
